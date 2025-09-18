@@ -53,5 +53,3 @@ For beginners: simplified vocabulary, explicit concept explanations, single-issu
 ## Submission Details
 - **Project**: FOSSEE Python Internship
 - **Task**: Screening Task 2 - AI Debugging Assistant Prompt
-- **Submitted**: September 2025
-- **Contact**: pythonsupport@fossee.in
