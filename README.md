@@ -31,10 +31,6 @@ git clone https://github.com/Roniscend/PromptPilot.git
 Student Input: Python code with syntax or logic errors
 AI Output: Guided questions leading to self-discovery of solution
 
-## Repository Structure
-PromptPilot/
-├── prompt.txt
-├── README.md 
 ## Design Choices and Reasoning
 
 ### Why you worded it the way you did
